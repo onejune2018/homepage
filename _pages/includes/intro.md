@@ -1,6 +1,6 @@
 ### About
 
-I am currently an AI Architect of CMCC, previously working as researcher at PA, IBM, ETH and CAS. I obtained my Ph.D. from Peking University in 2016. My working interests are mainly on DL/LLM, GNNs, and AI applications.
+I am currently an AI Architect in Department of Networks at CMCC Group, previously working as researcher at PA, IBM, ETH and CAS. I obtained my Ph.D. from Peking University in 2016. My working interests are mainly on DL/LLM, GNNs, and AI applications.
 
 Email: [junwang.deeplearning@gmail.com](mailto:junwang.deeplearning@gmail.com).
 
